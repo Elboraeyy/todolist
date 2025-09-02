@@ -10,10 +10,6 @@ A modern **ToDo List Android application** built with **Jetpack Compose**.
 - Search through tasks easily.
 - Clean **Material 3** design with reactive state management using **ViewModel** and **StateFlow**.
 
-## Screenshots
-
-*(يمكنك إضافة صور للتطبيق هنا)*
-
 ## Technology Stack
 
 - **Kotlin**
